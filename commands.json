@@ -13,6 +13,8 @@
     "flag C6",
     "unflag C6",
     "clear E5",
-    "clear G7"
+    "clear G7",
+    "flag G5",
+    "clear H7"
   ]
 }
