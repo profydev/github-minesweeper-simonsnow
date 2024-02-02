@@ -10,6 +10,9 @@
     "flag E2",
     "flag E3",
     "flag C5",
-    "flag C6"
+    "flag C6",
+    "unflag C6",
+    "clear E5",
+    "clear G7"
   ]
 }
